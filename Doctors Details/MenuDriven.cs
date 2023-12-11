@@ -49,11 +49,6 @@ namespace Doctors_Details
                                     Add.Addresss = Console.ReadLine();
                                     DoctorsList.Add(Add);
                                     Run.Insert(Add);
-                                   
-                               
-
-
-
 
                             }
 

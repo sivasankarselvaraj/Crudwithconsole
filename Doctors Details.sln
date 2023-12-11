@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doctors Details", "Doctors Details\Doctors Details.csproj", "{A0519A2D-F2ED-41C8-A71C-334AC6981986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDataAccessLayer", "DapperDataAccessLayer\DapperDataAccessLayer.csproj", "{17F991A8-2ED8-4DFD-B8C3-51E9F321EA08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperDataAccessLayer", "DapperDataAccessLayer\DapperDataAccessLayer.csproj", "{17F991A8-2ED8-4DFD-B8C3-51E9F321EA08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
